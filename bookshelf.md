@@ -1,11 +1,11 @@
 ---
 layout: bookshelf
-title: Machine Learning Bookshelf - Ghyslain Gaillard
+title: A Junior Data Scientist Bookshelf - Ghyslain Gaillard
 keywords: "machine learning bookshelf, machine learning books, data science books, learn data science, python for machine learning, books, free books"
 description: "I am a Junior Data Scientist based in London. I share a list of machine learning books that are now on my bookshelf."
 ---
 
-# Machine Learning Bookshelf
+# A Junior Data Scientist Bookshelf
 
 **Hi!** I am a Junior Data Scientist based in London with a strong background in Engineering Sciences.
 I have been self-learning Machine Learning and related skills throughout the past year, leveraging my background in Maths and Engineering Sciences.
