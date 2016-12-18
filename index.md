@@ -1,8 +1,10 @@
 ---
 layout: default
+description: "This is the personal website of a data scientist enthusiast with a big passion for entrepreneurship."
+
 ---
 
-**Hi!** I am a Junior Data Scientist based in London with a strong background in Engineering Sciences.
+**Hi!** I am a Junior Data Scientist based in London with a strong background in Engineering Sciences and a passion for entrepreneurship.
 
 I am looking for a full-time Data Science position in London from April 2017. You can find out more about me on [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).
 
