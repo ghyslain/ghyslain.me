@@ -9,3 +9,7 @@ tracking_id: UA-89100132-1
 sass:
     style: compressed
     sass_dir: _sass
+
+collections:
+  books:
+    output: false

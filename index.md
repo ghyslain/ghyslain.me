@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Hi!** I am a Junior Data Scientist with a strong background in Engineering Sciences and based in London.  
+**Hi!** I am a Junior Data Scientist based in London with a strong background in Engineering Sciences.
 
 ## Quick Bio
 

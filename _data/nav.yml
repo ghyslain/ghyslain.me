@@ -1,2 +1,5 @@
+- name: "Bookshelf"
+  link: "bookshelf"
+
 - name: "Home"
   link: ""
