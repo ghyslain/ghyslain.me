@@ -1,11 +1,12 @@
-title: Ghyslain Gaillard
+title: "Ghyslain Gaillard"
 url: "http://ghyslain.me"
 baseurl: "/"
 keywords: "data science, data scientist, machine learning, london, junior, graduate, spark, scala, ecole centrale lyon, ghyslain gaillard, blog, personal website"
+author: "Ghyslain Gaillard"
 
 markdown: kramdown
 
-tracking_id: UA-89100132-1
+tracking_id: "UA-89100132-1"
 
 sass:
     style: compressed
