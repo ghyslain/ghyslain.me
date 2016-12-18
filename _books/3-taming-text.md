@@ -1,6 +1,6 @@
 ---
 cat: "nlp"
-title: "Natural Language Processing"
+title: "Taming Text"
 image: "https://images-na.ssl-images-amazon.com/images/I/51sYBlJMyrL._SX396_BO1,204,203,200_.jpg"
 author: "Grant S. Ingersoll, Thomas S. Morton, Drew Farris"
 amazon: "https://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X/ref=sr_1_1?ie=UTF8&qid=1482063430&sr=8-1&keywords=Taming+Text"
