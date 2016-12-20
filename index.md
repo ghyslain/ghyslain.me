@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "This is the personal website of a data scientist enthusiast with a big passion for entrepreneurship."
+title: Home - Ghyslain Gaillard
 
 ---
 
@@ -12,7 +13,7 @@ I am looking for a full-time Data Science position in London from April 2017. Yo
 
 I am an MSc. Engineering Sciences student at the Ecole Centrale Lyon in France.
 
-Since June 2016, I have been assuming the position of **Data Scientist Intern** at InReach Ventures, a Venture Capital fund which takes a big data platform approach to discover, validate and support European deals.  
+Since June 2016, I have been assuming the position of **Data Scientist Intern** at [InReach Ventures](http://www.inreachventures.com/), a Venture Capital fund which takes a big data platform approach to discover, validate and support European deals.  
 
 Through the dual-degree programs offered by the Ecole Centrale Lyon, I hold a MSc in Business Analytics and Finance from the University of Southampton and a BSc in Economics and Management Sciences from the Université Lumière Lyon 2.
 
