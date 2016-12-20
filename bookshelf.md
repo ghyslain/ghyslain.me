@@ -1,4 +1,4 @@
----
+ ---
 layout: bookshelf
 title: A Junior Data Scientist Bookshelf - Ghyslain Gaillard
 keywords: "machine learning bookshelf, machine learning books, data science books, learn data science, python for machine learning, books, free books"
@@ -14,3 +14,5 @@ Below, I share a list of machine learning books that are now on my bookshelf. Mo
 
 Have a great read,  
 Ghyslain
+
+*PS: I am looking for a full-time Data Science position in London from April 2017. You can find out more about me on [the home page](https://ghyslain.me/).*
