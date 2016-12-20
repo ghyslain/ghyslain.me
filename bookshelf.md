@@ -15,4 +15,4 @@ Below, I share a list of machine learning books that are now on my bookshelf. Mo
 Have a great read,  
 Ghyslain
 
-*PS: I am looking for a full-time Data Science position in London from April 2017. You can find out more about me on [the home page](https://www.linkedin.com/in/ghyslaingaillard).*
+*PS: I am looking for a full-time Data Science position in London from April 2017. You can find out more about me on [the home page](https://ghyslain.me).*
