@@ -22,7 +22,7 @@ Through the dual-degree programs offered by the Ecole Centrale Lyon, I hold a MS
 
 During the Summer 2016, I developed a machine learning model that enables InReach Ventures partners to rank companies on their deal sourcing platform by the likelihood of the fund investing in them.  
 
-The scoring system filters out irrelevant companies and make interesting start-ups stand out with high scores, thus partly-automating the work of the invesment partners.  
+The scoring system filters out irrelevant companies and make interesting start-ups stand out with high scores, thus partly-automating the work of the investment partners.  
 
 This Machine Learning project was part of my dissertation for my MSc. in Business Analytics and Finance at the University of Southampton, which was awarded a top-10% mark of 80/100.
 
