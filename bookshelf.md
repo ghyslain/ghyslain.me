@@ -7,7 +7,7 @@ description: "I share a list of machine learning books that I have on my bookshe
 
 # Machine Learning Bookshelf
 
-**Hi!** I am a Junior Data Scientist based in London with a strong background in Engineering Sciences.
+**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences.
 I have been self-learning Machine Learning and related skills throughout the past year, leveraging my background in Maths and Engineering Sciences.
 
 Below, I share a list of machine learning books that are now on my bookshelf. Most of these books have a free version available on their website and can be ordered from Amazon. I have included links to relevant HN discussions, as it is how I found out about these books in most of the cases.
