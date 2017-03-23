@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "This is the personal website of a data scientist enthusiast with a big passion for entrepreneurship."
+description: "This is the personal website of a data science enthusiast with a big passion for entrepreneurship."
 title: Home - Ghyslain Gaillard
 
 ---
@@ -9,15 +9,13 @@ title: Home - Ghyslain Gaillard
 
 ## Quick Bio
 
-I am an MSc. Engineering Sciences student at the Ecole Centrale Lyon in France.
+Since September 2016, I have been assuming the position of **Data Scientist** at [InReach Ventures](http://www.inreachventures.com/), a Venture Capital fund which takes a big data platform approach to discover, validate and support European deals.
 
-Since June 2016, I have been assuming the position of **Data Scientist Intern** at [InReach Ventures](http://www.inreachventures.com/), a Venture Capital fund which takes a big data platform approach to discover, validate and support European deals.  
+Passionate about entrepreneurship and finance, I joined InReach Ventures to transform the industry of venture capital through the development of predictive models.
 
 Through the dual-degree programs offered by the Ecole Centrale Lyon, I hold a MSc in Business Analytics and Finance from the University of Southampton and a BSc in Economics and Management Sciences from the Université Lumière Lyon 2.
 
 ## Education
-
-I strongly believe that the time when Business and Engineering were at odds is over and, during my studies, I have been eager to extend my skills to fields such as business analytics and economics.
 
 * **MSc Engineering Sciences** - Ecole Centrale Lyon (2013-17)  
 	- **MSc. in Business Analytics and Finance (Distinction)**  (2015-16)  

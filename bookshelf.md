@@ -2,15 +2,14 @@
 layout: bookshelf
 title: Machine Learning Bookshelf - Ghyslain Gaillard
 keywords: "machine learning bookshelf, machine learning books, data science books, learn data science, python for machine learning, books, free books"
-description: "I share a list of machine learning books that I have on my bookshelf."
+description: "I share a list of interesting machine learning books."
 ---
 
 # Machine Learning Bookshelf
 
-**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences.
-I have been self-learning Machine Learning and related skills throughout the past year, leveraging my background in Maths and Engineering Sciences.
+**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences. I have been self-learning machine learning and related skills throughout the past couple of years, leveraging my foundations in Maths, Engineering Sciences and Business Analytics.
 
-Below, I share a list of machine learning books that are now on my bookshelf. Most of these books have a free version available on their website and can be ordered from Amazon. I have included links to relevant HN discussions, as it is how I found out about these books in most of the cases.
+Below, I share a list of interesting machine learning books. Most of these books have a free version available on their website and can be ordered from Amazon. I have included links to relevant HN discussions, as it is how I found out about these books in most of the cases.
 
 Have a great read,  
 Ghyslain
