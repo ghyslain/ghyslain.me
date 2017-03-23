@@ -17,10 +17,10 @@ Through the dual-degree programs offered by the Ecole Centrale Lyon, I hold a MS
 
 ## Education
 
-* **MSc Engineering Sciences** - Ecole Centrale Lyon (2013-17)  
-	- **MSc. in Business Analytics and Finance (Distinction)**  (2015-16)  
+* **MSc Engineering Sciences** - Ecole Centrale Lyon (13-17)  
+	- **MSc. in Business Analytics and Finance (Distinction)**  (15-16)  
 	Unversity of Southampton, Dual-degree Program    
-	- **BSc. in Economics and Management Sciences** (2013-15)  
+	- **BSc. in Economics and Management Sciences** (13-15)  
 	Université Lumière-Lyon II, Dual-degree Program  
 
 ## More about me
