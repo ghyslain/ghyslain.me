@@ -5,25 +5,10 @@ title: Home - Ghyslain Gaillard
 
 ---
 
-**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences and Business Analytics, and with a passion for entrepreneurship.
+**Hi!** I am a Data Scientist based in London.
 
-## Quick Bio
+I am on the engineering team at [InReach Ventures](http://www.inreachventures.com/), where I help transform the industry of venture capital through the development of predictive models.
 
-Since September 2016, I have been assuming the position of **Data Scientist** at [InReach Ventures](http://www.inreachventures.com/), a Venture Capital fund which takes a big data platform approach to discover, validate and support European deals.
+I hold an MSc in Engineering Sciences from the Ecole Centrale Lyon, an MSc in Business Analytics and Finance from the University of Southampton and a BSc in Economics and Management Sciences from the Université Lumière Lyon 2. In 2017, I was awarded the [May Hick prize](http://www.theorsociety.com/Pages/Awards/May.aspx) from the British Operational Research Society for my masters dissertation.
 
-Passionate about entrepreneurship and finance, I joined InReach Ventures to transform the industry of venture capital through the development of predictive models.
-
-Through the dual-degree programs offered by the Ecole Centrale Lyon, I hold a MSc in Business Analytics and Finance from the University of Southampton and a BSc in Economics and Management Sciences from the Université Lumière Lyon 2.
-
-## Education
-
-* **MSc Engineering Sciences** - Ecole Centrale Lyon (13-17)  
-	- **MSc. in Business Analytics and Finance**  (15-16)  
-	University of Southampton, Dual-degree Program    
-	- **BSc. in Economics and Management Sciences** (13-15)  
-	Université Lumière-Lyon-II, Dual-degree Program  
-
-## More about me
-
-- On [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard)
-- Or contact me by email: [ghyslain.gaillard@outlook.com](mailto:ghyslain.gaillard@outlook.com)
+If you would like to get in touch, please drop me an email: [ghyslain.gaillard@outlook.com](mailto:ghyslain.gaillard@outlook.com) or connect on [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).
