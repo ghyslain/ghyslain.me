@@ -13,4 +13,6 @@ I hold an MSc in Engineering Sciences from the Ecole Centrale Lyon, an MSc in Bu
 
 In 2017, I was awarded the [May Hick prize](http://www.theorsociety.com/Pages/Awards/May.aspx) from the British Operational Research Society for my masters dissertation.
 
+You can learn more about my latest projects and publications on [my blog](https://medium.com/@ghyslain).
+
 If you would like to get in touch, please [drop me an email](mailto:ghyslain.gaillard@outlook.com) or connect on [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).

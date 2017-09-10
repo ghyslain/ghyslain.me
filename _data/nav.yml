@@ -1,5 +1,8 @@
 - name: "Bookshelf"
   link: "bookshelf"
 
+- name: "Blog"
+  link: "https://medium.com/@ghyslain"
+  
 - name: "Home"
   link: "index"
