@@ -94,8 +94,6 @@
                     <tr>
                       <td colspan="2" >
                         <a href="{{ book.website }}">Official website</a> <br/><br/>
-                        <a  href="{{ book.amazon }}&tag=mlbooks-20">View on Amazon</a>
-
                       </td>
                     </tr>
                     <tr>
@@ -123,4 +121,15 @@
           ga('send', 'pageview');
         </script>
     {% endif %}
+
+    <script>
+      //open external links in a new window
+      function external_new_window() {
+          for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+          var b = c[a];
+          b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
+          }
+      }
+      external_new_window();
+    </script>
 </body>
