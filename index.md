@@ -15,7 +15,7 @@ If you would like to get in touch, please [drop me an email](mailto:ghyslain.gai
 
 ## Education  
 
-- **MSc in Engineering Science**, Ecole Centrale de Lyon
+- **MSc in Engineering Sciences**, Ecole Centrale de Lyon
 - **MSc in Business Analytics and Finance**, University of Southampton
 - **BSc in Economics and Management Sciences**, Université Lumière Lyon 2.  
 
@@ -24,7 +24,7 @@ If you would like to get in touch, please [drop me an email](mailto:ghyslain.gai
 
 - **Winner of the [ProductHunt Global Hackathon 2017](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** (Slack Category) with [Klue](http://kluestudio.com/): the first Slack-based mystery game.
 
-- **Winner of the [British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx)** for my masters dissertation: *Predict Investment Opportunities across Early-Stage European Tech-Startups*
+- **Winner of the [British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx)** for my masters dissertation: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
 
 
 ## Projects
