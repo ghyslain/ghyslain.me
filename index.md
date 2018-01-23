@@ -17,7 +17,7 @@ If you would like to get in touch, please [drop me an email](mailto:ghyslain.gai
 
 - **MSc in Engineering Sciences**, Ecole Centrale de Lyon
 - **MSc in Business Analytics and Finance**, University of Southampton
-- **BSc in Economics and Management Sciences**, Université Lumière Lyon 2.  
+- **BSc in Economics and Management Sciences**, Université Lumière Lyon 2 
 
 
 ## Awards  
