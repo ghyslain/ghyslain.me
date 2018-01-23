@@ -7,7 +7,7 @@ description: "I share a list of interesting machine learning books."
 
 # Machine Learning Bookshelf
 
-**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences. I have been self-learning machine learning and related skills throughout the past couple of years, leveraging my foundations in Maths, Engineering Sciences and Business Analytics.
+**Hi!** I am a Data Scientist based in London with a strong background in Engineering Sciences.
 
 Below, I share a list of interesting machine learning books. Most of these books have a free version available on their website and can be ordered from Amazon. I have included links to relevant HN discussions, as it is how I found out about these books in most of the cases.
 

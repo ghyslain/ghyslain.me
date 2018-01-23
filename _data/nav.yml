@@ -1,3 +1,6 @@
+- name: "Library"
+  link: "library"
+
 - name: "Blog"
   link: "https://medium.com/@ghyslain"
 
