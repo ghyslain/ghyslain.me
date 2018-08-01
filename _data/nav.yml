@@ -1,6 +1,12 @@
 - name: "Library"
   link: "library"
 
+- name: "LinkedIn"
+  link: "https://www.linkedin.com/in/ghyslaingaillard/"
+
+- name: "Twitter"
+  link: "https://twitter.com/iamghyslain"
+
 - name: "Blog"
   link: "https://medium.com/@ghyslain"
 

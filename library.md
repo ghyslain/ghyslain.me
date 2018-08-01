@@ -1,19 +1,9 @@
 ---
 layout: default
 description: "A collection of great resources I have read on entrepreneurship, machine learning and software engineering."
-title: Home - Ghyslain Gaillard
+title: Library - Ghyslain Gaillard
 
 ---
-
-**Hi!** I am a Data Scientist based in London.
-
-I am on the engineering team at [InReach Ventures](http://www.inreachventures.com/), where I help transform the industry of venture capital through the development of predictive models.
-
-Below, I share a collection of great resources I have read on entrepreneurship, machine learning and software engineering.
-
-Have a great read,  
-Ghyslain
-
 
 ## Entrepreneurship
 
