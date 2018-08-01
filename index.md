@@ -9,7 +9,9 @@ title: Home - Ghyslain Gaillard
 
 I organize the [London Indie Hackers Meetup](https://indiehackers.london/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
 
-I work full-time on the engineering team at [InReach Ventures](http://www.inreachventures.com/) where I help transform the industry of venture capital through the development of predictive models. Through my work at InReach Ventures, I  have been awarded the [British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx) for my masters dissertation: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
+I work full-time on the engineering team at [InReach Ventures](http://www.inreachventures.com/) where I help transform the industry of venture capital through the development of predictive models.  
+
+Through my work at InReach Ventures, I  have been awarded the **British Operational Research Society's** [May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx) for my masters dissertation: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
 
 If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain) or [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).
 
