@@ -7,7 +7,7 @@ title: Home - Ghyslain Gaillard
 
 **Hi!** I am Ghyslain.
 
-I organize the [London Indie Hackers Meetup](https://indiehackers.london/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
+I run [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
 
 I work full-time on the engineering team at [InReach Ventures](http://www.inreachventures.com/) where I help transform the industry of venture capital through the development of predictive models.  
 
