@@ -17,7 +17,7 @@ If you would like to get in touch, we can connect on [Twitter](https://twitter.c
 
 ## Projects
 
-- **[London Indie Hackers Meetup](https://indiehackers.london/)**: a series of event to connect with fellow entrepreneurs, developers, and bootstrappers based in London, UK.
+- **[Indie London](https://indieldn.com/)**: a series of event to connect with fellow entrepreneurs, developers, and bootstrappers based in London, UK.
 
 - **Winner of the [ProductHunt Global Hackathon 2017](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** (Slack Category) with [Klue](http://kluestudio.com/): the first Slack-based mystery game.
 
