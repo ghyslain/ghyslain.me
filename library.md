@@ -41,7 +41,3 @@ title: Library - Ghyslain Gaillard
 ## Product Management
 
 [Intercom On Product Management](https://www.intercom.com/books/product-management), Intercom - A great introduction to everything about product management. Easy to read. Precise and concise.
-
-
->
-> Last updated: January 2018
