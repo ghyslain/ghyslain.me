@@ -1,7 +1,7 @@
 ---
 layout: default
 description: "Thoughts on entrepreneurship, artificial intelligence and venture capital at scale."
-title: Ghyslain Gaillard - Artificial Intelligence and Venture Capital
+title: Ghyslain Gaillard
 
 ---
 
