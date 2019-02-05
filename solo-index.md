@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Ghyslain Gaillard.  
+# Ghyslain Gaillard.  
 
 **Hi!** I am a Junior Data Scientist with a strong background in Engineering Sciences and based in London.  
 
