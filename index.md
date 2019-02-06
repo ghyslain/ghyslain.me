@@ -11,7 +11,7 @@ title: Ghyslain Gaillard
 
 As Data Product Manager at [InReach Ventures](http://www.inreachventures.com/), I help transform the industry of venture capital through the development of our scalable investment workflow and automated proactive outreach - leveraging data and artificial intelligence.
 
-On my free time, I run [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
+My passion for entrepreneurship led me to start [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
 
 If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain) or [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).  
 
