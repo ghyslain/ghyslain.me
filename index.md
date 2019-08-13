@@ -26,7 +26,7 @@ If you would like to get in touch, we can connect on [Twitter](https://twitter.c
 
 - **[Indie London](https://indieldn.com/)**: a series of event to connect with fellow entrepreneurs, developers, and bootstrappers based in London, UK.
 
-- **[CryptoProphet.co](https://cryptoprophet.co/)**: a forecasting tool to be notified of unusual cryptocurrency price movements  directly on your phone via Telegram.
+- **[CryptoProphet.co  (closed)](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)**: a forecasting tool to be notified of unusual cryptocurrency price movements  directly on your phone via Telegram.
 
 
 ## Articles
