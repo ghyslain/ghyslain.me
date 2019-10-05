@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "Data Product Manager at InReach Ventures, the AI powered VC. Organizer of Indie London, the largest events for London indie makers."
+description: "Data Product Manager at InReach Ventures, the AI powered VC. Founder and Community Lead of Indie London, the largest events for London indie entrepreneurs."
 title: Ghyslain Gaillard
 
 ---
@@ -30,6 +30,8 @@ I organise quarterly events with practical and visionary talks from experienced 
 We welcome bootstrappers, solo founders, software engineers, designers, product managers... Even if they are just starting out: we’re a community all about sharing and growing as a group.
 
 Our previous speakers, partners and sponsors include Stripe, Cloudflare, EmailOctopus and Dependabot (now part of GitHub).
+
+[Visit our website to learn more.](https://indieldn.com/)
 
 ## Past Projects
 
