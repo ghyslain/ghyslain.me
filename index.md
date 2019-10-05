@@ -28,10 +28,6 @@ I organise quarterly events with practical and visionary talks from experienced 
 
 Our previous speakers, partners and sponsors include Stripe, Cloudflare, EmailOctopus and Dependabot (now part of GitHub).
 
-
-## InReach inreachventures
-
-
 ## Past Projects
 
 - **[CryptoProphet.co  (closed)](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)**: a forecasting tool to be notified of unusual cryptocurrency price movements  directly on your phone via Telegram.
