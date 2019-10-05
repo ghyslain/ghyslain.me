@@ -19,12 +19,15 @@ My passion for entrepreneurship led me to start [Indie London](https://indieldn.
 If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain), [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard) or send me an email at [hi@ghyslain.me](mailto:hi@ghyslain.me)
 
 ## Indie London
+#### Founder, Community Lead
 
 ![indieldn](./indieldn.png)
 
 **[Indie London](https://indieldn.com/)** is the largest community of indie makers helping each other start and grow profitable online businesses.
 
 I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to a 100 inspired attendees at top locations in the city.
+
+We welcome bootstrappers, solo founders, software engineers, designers, product managers... Even if they are just starting out: we’re a community all about sharing and growing as a group.
 
 Our previous speakers, partners and sponsors include Stripe, Cloudflare, EmailOctopus and Dependabot (now part of GitHub).
 
