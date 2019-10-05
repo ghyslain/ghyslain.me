@@ -16,7 +16,7 @@ As Data Product Manager at [InReach Ventures](http://www.inreachventures.com/), 
 
 My passion for entrepreneurship led me to start [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
 
-If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain), [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard) or send me an email at [hi@ghyslain.me](mailto:hi@ghyslain.me)
+If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain) or [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard).
 
 ## Indie London
 #### Founder, Community Lead
