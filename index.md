@@ -1,32 +1,48 @@
 ---
 layout: default
-description: "Thoughts on entrepreneurship, artificial intelligence and venture capital at scale."
+description: "Data Product Manager at InReach Ventures, the AI powered VC. Organizer of Indie London, the largest events for London indie makers."
 title: Ghyslain Gaillard
 
 ---
-
+{:.profile}
 ![ghyslain](./ghyslain.jpg)
 
-**Hi!** I am Ghyslain.
+{:.hello}
+**Hi!** I am Ghyslain
+
+## About
 
 As Data Product Manager at [InReach Ventures](http://www.inreachventures.com/), I help transform the industry of venture capital through the development of our scalable investment workflow and automated proactive outreach - leveraging data and artificial intelligence.
 
 My passion for entrepreneurship led me to start [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
 
-If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain) or [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard).  
+If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain), [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard) or send me an email at [hi@ghyslain.me](mailto:hi@ghyslain.me)
+
+## Indie London
+
+![indieldn](./indieldn.png)
+
+**[Indie London](https://indieldn.com/)** is the largest community of indie makers helping each other start and grow profitable online businesses.
+
+I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to a 100 inspired attendees at top locations in the city.
+
+Our previous speakers, partners and sponsors include Stripe, Cloudflare, EmailOctopus and Dependabot (now part of GitHub).
+
+
+## InReach inreachventures
+
+
+## Past Projects
+
+- **[CryptoProphet.co  (closed)](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)**: a forecasting tool to be notified of unusual cryptocurrency price movements  directly on your phone via Telegram.
+
+
 
 ## Awards
 
 - **[British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx)** for my masters dissertation at InReach Ventures: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
 
 - **Winner of the [ProductHunt Global Hackathon 2017](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** (Slack Category) with Klue: the first Slack-based mystery game.
-
-
-## Projects
-
-- **[Indie London](https://indieldn.com/)**: a series of event to connect with fellow entrepreneurs, developers, and bootstrappers based in London, UK.
-
-- **[CryptoProphet.co  (closed)](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)**: a forecasting tool to be notified of unusual cryptocurrency price movements  directly on your phone via Telegram.
 
 
 ## Articles
