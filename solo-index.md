@@ -26,5 +26,5 @@ I strongly believe that the time when Business and Engineering were at odds is o
 
 ## More about me
 
-- On [LinkedIn](https://www.linkedin.com/in/ghyslaingaillard)
+- On [Linkedin](https://www.linkedin.com/in/ghyslaingaillard)
 - Or contact me by email: [gg5g15@soton.ac.uk](mailto:gg5g15@soton.ac.uk)
