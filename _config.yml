@@ -4,6 +4,9 @@ baseurl: "/"
 keywords: "data product management, product management, data science, data scientist, machine learning, london, london indie hackers, indiehackers, ihlondon, indie london, indie entrepreneurs, bootstrapper, venture capital, vc, fundraising, startups, ghyslain gaillard"
 author: "Ghyslain Gaillard"
 
+favicon: true
+favicon_location: "./favicon.png"
+
 markdown: kramdown
 
 tracking_id: "UA-89100132-1"
