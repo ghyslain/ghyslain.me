@@ -27,17 +27,17 @@ If you would like to get in touch, we can connect on [Twitter](https://twitter.c
 
 **[Indie London](https://indieldn.com/)** is the largest community worldwide of indie makers helping each other start and grow profitable online businesses.
 
-I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to 100 inspired attendees at top locations London.
+I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to 100 inspired attendees at top locations in London.
 
 We welcome bootstrappers, solo founders, software engineers, designers, product managers... Even if they are just starting out: we’re a community all about sharing and growing as a group.
 
 Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and Balsamiq.
 
-[➡️ Visit IndieLDN.com to learn more.](https://indieldn.com/)
+[➡️ Find out about our next indie makers' event on IndieLDN.com.](https://indieldn.com/)
 
 [🎧 Listen to my conversation with Courtland on the Indie Hackers podcast.](https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard)
 
-[📖Read my StartAMeetup.com to learn how to organize your own events](https://startameetup.com).
+[📖Read my guide on how to organize your own events](https://startameetup.com).
 
 ## CryptoProphet
 #### Founder (June 2017 - February 2018)
