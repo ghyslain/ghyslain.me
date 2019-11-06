@@ -10,6 +10,9 @@ title: Ghyslain Gaillard
 {:.hello}
 **Hi!** I am Ghyslain
 
+{:.center}
+**I am a Product Manager with a blend of product, analytics, and machine learning experience along with a passion for entrepreneurship.**
+
 # About
 
 As Data Product Manager at [InReach Ventures](http://www.inreachventures.com/), I help transform the industry of venture capital through the development of our scalable investment workflow and automated proactive outreach - leveraging data and artificial intelligence.

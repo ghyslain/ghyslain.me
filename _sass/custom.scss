@@ -11,13 +11,21 @@
   border: thick double $accent;
 
 }
+.center {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
 
 .hello {
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   font-size: 22px;
 }
 
+h1, h2 {
+  margin-top: 30px;
+}
 
 h4 {
   margin-top: -15px;
