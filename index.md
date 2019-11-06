@@ -36,7 +36,7 @@ We welcome bootstrappers, solo founders, software engineers, designers, product 
 
 Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and Balsamiq.
 
-[➡️ Find out about our next indie makers' event on IndieLDN.com.](https://indieldn.com/)
+[➡️ Find out about our next indie makers events in London.](https://indieldn.com/)
 
 [🎧 Listen to my conversation with Courtland on the Indie Hackers podcast.](https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard)
 
