@@ -38,9 +38,11 @@ Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and 
 
 [➡️ Find out about our next indie makers events in London.](https://indieldn.com/)
 
+[📖Read my guide on how to organize your own events](https://startameetup.com).
+
 [🎧 Listen to my conversation with Courtland on the Indie Hackers podcast.](https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard)
 
-[📖Read my guide on how to organize your own events](https://startameetup.com).
+{% include podcast.html %}
 
 ## CryptoProphet
 #### Founder (June 2017 - February 2018)
@@ -49,7 +51,7 @@ Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and 
 
 **[CryptoProphet.co](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)** was a freemium forecasting SaaS used by over 700 cryptocurrency enthusiasts to predict and track prices via Telegram.
 
-The project is now closed due to a lack of traction but you can read more about the journey:
+The project is now closed but you can read more about the journey:
 
 - How I came up with the idea and iterated on the product: [Selling shovels in a gold rush: building a SaaS product for cryptocurrency enthusiasts (*Sept 17*)](https://medium.com/entrepreneurship-at-work/selling-shovel-during-the-gold-rush-building-a-saas-product-for-cryptocurrency-enthusiasts-7ff02bb0724e).
 
