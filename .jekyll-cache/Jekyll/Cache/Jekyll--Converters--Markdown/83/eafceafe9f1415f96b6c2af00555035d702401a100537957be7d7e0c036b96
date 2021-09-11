@@ -1,0 +1,80 @@
+I"�<p class="profile"><img src="./ghyslain.jpg" alt="ghyslain" /></p>
+
+<p class="hello"><strong>Hi!</strong> I am Ghyslain</p>
+
+<p class="center"><strong>I am a Product Manager with a blend of product, analytics, and machine learning experience along with a passion for entrepreneurship.</strong></p>
+
+<h1 id="about">About</h1>
+
+<p>As Data Product Manager at <a href="http://www.inreachventures.com/">InReach Ventures</a>, I help transform the industry of venture capital through the development of our scalable investment workflow and automated proactive outreach - leveraging data and artificial intelligence.</p>
+
+<p>My passion for entrepreneurship led me to start <a href="https://indieldn.com/">Indie London</a> – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.</p>
+
+<p>If you would like to get in touch, we can connect on <a href="https://twitter.com/iamghyslain">Twitter</a> or <a href="https://www.Linkedin.com/in/ghyslaingaillard">Linkedin</a>.</p>
+
+<h1 id="projects">Projects</h1>
+
+<h2 id="indie-london">Indie London</h2>
+<h4 id="founder-march-2018---present">Founder (March 2018 - Present)</h4>
+
+<p><img src="./indieldn.png" alt="indieldn" /></p>
+
+<p><strong><a href="https://indieldn.com/">Indie London</a></strong> is the largest community worldwide of indie makers helping each other start and grow profitable online businesses.</p>
+
+<p>I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to 100 inspired attendees at top locations in London.</p>
+
+<p>We welcome bootstrappers, solo founders, software engineers, designers, product managers… Even if they are just starting out: we’re a community all about sharing and growing as a group.</p>
+
+<p>Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and Balsamiq.</p>
+
+<p><a href="https://indieldn.com/">➡️ Find out about our next indie makers events in London.</a></p>
+
+<p><a href="https://startameetup.com">📖Read my guide on how to organize your own events</a>.</p>
+
+<p><a href="https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard">🎧 Listen to my conversation with Courtland on the Indie Hackers podcast.</a></p>
+
+<div data-bt-embed="https://player.backtracks.fm/indiehackers/indiehackers/m/127-quick-chat-with-ghyslain-gaillard-of-indie-london" data-bt-theme="light" data-bt-show-art-cover="true"></div>
+<script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,'script','__btL','__btR','https://player.backtracks.fm/embedder.js'))</script>
+
+<p><br /></p>
+
+<h2 id="cryptoprophet">CryptoProphet</h2>
+<h4 id="founder-june-2017---february-2018">Founder (June 2017 - February 2018)</h4>
+
+<p><img src="./cryptoprophet.png" alt="cryptoprophet" /></p>
+
+<p><strong><a href="https://web.archive.org/web/20180524165212/https://cryptoprophet.co/">CryptoProphet.co</a></strong> was a freemium forecasting SaaS used by over 700 cryptocurrency enthusiasts to predict and track prices via Telegram.</p>
+
+<p>The project is now closed but you can read more about the journey:</p>
+
+<ul>
+  <li>
+    <p>How I came up with the idea and iterated on the product: <a href="https://medium.com/entrepreneurship-at-work/selling-shovel-during-the-gold-rush-building-a-saas-product-for-cryptocurrency-enthusiasts-7ff02bb0724e">Selling shovels in a gold rush: building a SaaS product for cryptocurrency enthusiasts (<em>Sept 17</em>)</a>.</p>
+  </li>
+  <li>
+    <p>How I followed the AARRR framework to grow total revenue to $1,000: <a href="https://medium.com/@ghyslain/how-cryptoprophet-uses-metrics-to-measure-growth-14e4a52f275c">Lessons learned running a SaaS product for cryptocurrency enthusiasts (<em>Feb 18</em>)</a>.</p>
+  </li>
+</ul>
+
+<h2 id="awards">Awards</h2>
+
+<ul>
+  <li>
+    <p><strong><a href="http://www.theorsociety.com/Pages/Awards/May.aspx">British Operational Research Society’s May Hick Prize 2016</a></strong> for my masters dissertation at InReach Ventures: <em>Predict Investment Opportunities across Early-Stage European Tech-Startups</em>.</p>
+  </li>
+  <li>
+    <p><strong>Winner of the <a href="https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39">ProductHunt Global Hackathon 2017</a></strong> (Slack Category - $1,000 Prize) with Klue: the first Slack-based mystery game.</p>
+  </li>
+</ul>
+
+<h2 id="useful-resources">Useful Resources</h2>
+
+<ul>
+  <li>
+    <p><a href="http://ghyslain.me/bookshelf">Machine Learning Bookshelf</a></p>
+  </li>
+  <li>
+    <p><a href="https://ghyslain.me/library">Best Reads on Entrepreneurship, Machine Learning and Software Engineering</a></p>
+  </li>
+</ul>
+:ET

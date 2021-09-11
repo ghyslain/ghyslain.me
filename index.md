@@ -1,7 +1,7 @@
 ---
 layout: default
-description: "Data Product Manager at InReach Ventures, the AI powered VC. Founder and Community Lead of Indie London, the largest events for London indie entrepreneurs."
-title: Ghyslain Gaillard
+description: "I am a Product Manager with 5 years of hands-on experience building data and machine learning products. I help data teams deliver value to your business."
+title: Ghyslain Gaillard - Product Management, Data and Machine Learning
 
 ---
 {:.profile}
@@ -11,62 +11,39 @@ title: Ghyslain Gaillard
 **Hi!** I am Ghyslain
 
 {:.center}
-**I am a Product Manager with a blend of product, analytics, and machine learning experience along with a passion for entrepreneurship.**
+**I am a Product Manager with 5 years of hands-on experience building data and machine learning products. I help data teams deliver value to your business.**
 
-# About
+# About me
 
-As Data Product Manager at [InReach Ventures](http://www.inreachventures.com/), I help transform the industry of venture capital through the development of our scalable investment workflow and automated proactive outreach - leveraging data and artificial intelligence.
+I am currently Product Manager in [Schibsted](https://schibsted.com/) (Oslo, Norway) building products that enable advanced collection, management and activation of our core data assets across Schibsted.
 
-My passion for entrepreneurship led me to start [Indie London](https://indieldn.com/) – a series of events for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business.
+Previously, I established product management at [InReach Ventures](http://www.inreachventures.com/) (London, UK) – a €50M Venture Capital fund that builds its own proprietary software leveraging data and AI to discover and invest in the best European early-stage startups. 
 
-If you would like to get in touch, we can connect on [Twitter](https://twitter.com/iamghyslain) or [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard).
+Passionate about tech entrepreneurship I started [Indie London](https://www,indieldn.com/) on the side – a series of events and community for entrepreneurs, developers, and bootstrappers who wish to connect, learn and share their experience of running a business. I moved to Oslo in 2020 and sold the community to a new owner.
 
-# Projects
+If you would like to get in touch, we can connect on [Linkedin](https://www.Linkedin.com/in/ghyslaingaillard).
 
-## Indie London
-#### Founder (March 2018 - Present)
+## Articles and Podcasts
 
-![indieldn](./indieldn.png)
+#### [🎧 **Indie London** - Interview on the Indie Hackers podcast](https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard) • Oct 2019
 
-**[Indie London](https://indieldn.com/)** is the largest community worldwide of indie makers helping each other start and grow profitable online businesses.
+#### [📙 How to organize your own events and grow your community](https://startameetup.com) • Oct 2019
 
-I organise quarterly events with practical and visionary talks from experienced speakers, hosting up to 100 inspired attendees at top locations in London.
+#### [🔮 CryptoProphet - Lessons learned running a SaaS product for cryptocurrency enthusiasts](https://medium.com/@ghyslain/how-cryptoprophet-uses-metrics-to-measure-growth-14e4a52f275c) • Feb 2018
 
-We welcome bootstrappers, solo founders, software engineers, designers, product managers... Even if they are just starting out: we’re a community all about sharing and growing as a group.
+#### [🔮 CryptoProphet - Selling shovels in a gold rush: building an AI-powered SaaS product for cryptocurrency enthusiasts (*Sept 17*)](https://medium.com/entrepreneurship-at-work/selling-shovel-during-the-gold-rush-building-a-saas-product-for-cryptocurrency-enthusiasts-7ff02bb0724e) • Sept 2017
 
-Our previous partners and sponsors include Stripe, Cloudflare, EmailOctopus and Balsamiq.
 
-[➡️ Find out about our next indie makers events in London.](https://indieldn.com/)
+#### [ Best Reads on Entrepreneurship, Machine Learning and Software Engineering](./library) • 2017
 
-[📖Read my guide on how to organize your own events](https://startameetup.com).
-
-[🎧 Listen to my conversation with Courtland on the Indie Hackers podcast.](https://www.indiehackers.com/podcast/127-quick-chat-with-ghyslain-gaillard)
-
-{% include podcast.html %}
-
-## CryptoProphet
-#### Founder (June 2017 - February 2018)
-
-![cryptoprophet](./cryptoprophet.png)
-
-**[CryptoProphet.co](https://web.archive.org/web/20180524165212/https://cryptoprophet.co/)** was a freemium forecasting SaaS used by over 700 cryptocurrency enthusiasts to predict and track prices via Telegram.
-
-The project is now closed but you can read more about the journey:
-
-- How I came up with the idea and iterated on the product: [Selling shovels in a gold rush: building a SaaS product for cryptocurrency enthusiasts (*Sept 17*)](https://medium.com/entrepreneurship-at-work/selling-shovel-during-the-gold-rush-building-a-saas-product-for-cryptocurrency-enthusiasts-7ff02bb0724e).
-
-- How I followed the AARRR framework to grow total revenue to $1,000: [Lessons learned running a SaaS product for cryptocurrency enthusiasts (*Feb 18*)](https://medium.com/@ghyslain/how-cryptoprophet-uses-metrics-to-measure-growth-14e4a52f275c).
+#### [📚 My Machine Learning Bookshelf](..me/bookshelf) • 2016
 
 
 ## Awards
 
-- **[British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx)** for my masters dissertation at InReach Ventures: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
+{:.awards}
+![awards](./awards.png)
 
-- **Winner of the [ProductHunt Global Hackathon 2017](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** (Slack Category - $1,000 Prize) with Klue: the first Slack-based mystery game.
+**[British Operational Research Society's May Hick Prize 2016](http://www.theorsociety.com/Pages/Awards/May.aspx)** for my masters dissertation at InReach Ventures: *Predict Investment Opportunities across Early-Stage European Tech-Startups*.
 
-
-## Useful Resources
-
-- [Machine Learning Bookshelf](http://ghyslain.me/bookshelf)
-
-- [Best Reads on Entrepreneurship, Machine Learning and Software Engineering](https://ghyslain.me/library)
+**Winner of the [ProductHunt Global Hackathon 2017](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** (Slack Category - $1,000 Prize) with Klue: the first Slack-based mystery game.

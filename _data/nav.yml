@@ -2,11 +2,8 @@
 - name: "Linkedin"
   link: "https://www.linkedin.com/in/ghyslaingaillard/"
 
-- name: "Twitter"
-  link: "https://twitter.com/iamghyslain"
-
-- name: "Blog"
+- name: "Medium"
   link: "https://medium.com/@ghyslain"
 
 - name: "Home"
-  link: "https://ghyslain.me/"
+  link: "./"
