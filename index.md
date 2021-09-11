@@ -43,6 +43,6 @@ If you would like to get in touch, we can connect on [Linkedin](https://www.Link
 {:.awards}
 ![awards](./awards.png)
 
-**[British Operational Research Society's - May Hick Prize](https://www.theorsociety.com/membership/awards-medals-and-scholarships/may-hicks-award/previous-awards/)** for my masters dissertation at InReach Ventures: *Predict Investment Opportunities across Early-Stage European Tech-Startups* using state-of-the-art data analytics and machine learning techniques.
+**[British Operational Research Society - May Hick Prize](https://www.theorsociety.com/membership/awards-medals-and-scholarships/may-hicks-award/previous-awards/)** for my masters dissertation at InReach Ventures: *Predict Investment Opportunities across Early-Stage European Tech-Startups* using state-of-the-art data analytics and machine learning techniques.
 
 **[ProductHunt Global Hackathon 2017 - Winner in Slack Category](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)** with Klue: the first Slack-based mystery game.
