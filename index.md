@@ -33,8 +33,7 @@ If you would like to get in touch, we can connect on [Linkedin](https://www.Link
 
 #### [🔮 CryptoProphet - Selling shovels in a gold rush: building an AI-powered SaaS product for cryptocurrency enthusiasts (*Sept 17*)](https://medium.com/entrepreneurship-at-work/selling-shovel-during-the-gold-rush-building-a-saas-product-for-cryptocurrency-enthusiasts-7ff02bb0724e) • Sept 2017
 
-
-#### [ Best Reads on Entrepreneurship, Machine Learning and Software Engineering](./library) • 2017
+#### [📝 Best Reads on Entrepreneurship, Machine Learning and Software Engineering](./library) • 2017
 
 #### [📚 My Machine Learning Bookshelf](..me/bookshelf) • 2016
 
