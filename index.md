@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "I am a Product Manager with 5 years of hands-on experience building data and machine learning products. I help data teams deliver value to your business."
+description: "I am a Product Manager with hands-on experience building data and machine learning products. I help data teams deliver value to your business."
 title: Ghyslain Gaillard - Product Management, Data and Machine Learning
 
 ---
@@ -11,7 +11,7 @@ title: Ghyslain Gaillard - Product Management, Data and Machine Learning
 **Hi!** I am Ghyslain
 
 {:.center}
-**I am a Product Manager with 5 years of hands-on experience building data and machine learning products. I help data teams deliver value to your business.**
+**I am a Product Manager with hands-on experience building data and machine learning products. I help data teams deliver value to your business.**
 
 # About me
 
