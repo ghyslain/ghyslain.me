@@ -2,8 +2,8 @@
 - name: "Linkedin"
   link: "https://www.linkedin.com/in/ghyslaingaillard/"
 
-- name: "Medium"
-  link: "https://medium.com/@ghyslain"
+- name: "Coaching"
+  link: "./coaching"
 
 - name: "Home"
   link: "./"
