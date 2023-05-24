@@ -16,6 +16,6 @@ title: "For B2B SaaS Operators: Make More Money From Existing Customers In 3 Mon
 [https://calendly.com/gaillard-ghyslain/discovery-call](https://calendly.com/gaillard-ghyslain/discovery-call)  
 
 
-<iframe width="780" height="370" src="https://www.youtube.com/embed/E6KjwV9kxbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
-
+<div class="youtube-wrapper">
+  <iframe src="https://www.youtube.com/embed/E6KjwV9kxbk" allowfullscreen></iframe>
+</div>
